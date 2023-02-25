@@ -5,10 +5,28 @@ O desafio foi realizado no Jupyter Notebook utilizando bibliotecas do Python par
 
 Trata-se de análises em duas bases de dados mescladas (netflix_titles.csv e amazon_prime_titles.csv).
 
-O intuito foi criar 7 tratativas para filtrar informações relevantes.
+O intuito foi criar 7 tratativas para filtrar informações relevantes:
 
 
 
+
+
+
+## Filtros
+
+1- Top 10 atores/atrizes considerando todos os dados
+
+2- Top 5 países produtores de conteúdos considerando todos os dados e comparando as duas plataformas
+
+3- Mês no qual há mais adições de filmes na plataforma Netflix
+
+4- Quantidade de filmes listados como comédia.
+
+5- Lista de todos os gêneros de filmes.
+
+6- A frequência de "TV Show" de todos os dados e comparativamente em relação as duas plataformas.
+
+7- A frequência de "Movies" de todos os dados e comparativamente em relação as duas plataformas.
 
 
 ## Stacks utilizadas
@@ -31,9 +49,14 @@ Para instalar e usar o projeto, é necessário:
 
 `3 - Pesquise na barra de pesquisa por Jupyter Notebook e execute o arquivo.`
 
-`4 - Após executar o arquivo do Jupyter Notebook, o mesmo irá abrir em seu navegador. Desta forma, verifique o arquivo listado como 'Data Challenge 20221121.ipynb' e execute ele.`
+`4 - Após executar o arquivo do Jupyter Notebook, o mesmo irá abrir em seu navegador. Desta forma, verifique o diretório correto para o arquivo listado como 'Data Challenge 20221121.ipynb' e execute ele.`
 
 
 
 
+
+
+## Autor
+
+- [@JulianoLaurentino](https://www.linkedin.com/in/julianolaurentinodasilva/)
 
