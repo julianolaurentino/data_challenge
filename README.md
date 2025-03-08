@@ -1,5 +1,5 @@
 
-# Data Challenge - 20221121
+# Streaming Data Challenge
 
 O desafio foi realizado no Jupyter Notebook utilizando bibliotecas do Python para análise de dados.
 
